@@ -7,3 +7,4 @@
 - [https___cpu_comparison_com_amd_a6_3500_amd_athlon_silver_3050u_ (20260510_145125)](pages/cpu-comparison.com/https___cpu_comparison_com_amd_a6_3500_amd_athlon_silver_3050u_/20260510_145125/index.md) — 0 media files
 - [https___en_wikipedia_org_wiki_Boeing_Starliner (20260510_150928)](pages/en.wikipedia.org/https___en_wikipedia_org_wiki_Boeing_Starliner/20260510_150928/index.md) — 34 media files
 - [https___en_wikipedia_org_wiki_Boeing_Starliner_html (20260510_152905)](pages/en.wikipedia.org/https___en_wikipedia_org_wiki_Boeing_Starliner_html/20260510_152905/index.md) — 10 media files
+- [https___www_notebookcheck_net_Vega_8_vs_Radeon_R7_Bristol_Ridge_vs_Vega_3_8144_7442_8468_247598_0_ht (20260511_120156)](pages/notebookcheck.net/https___www_notebookcheck_net_Vega_8_vs_Radeon_R7_Bristol_Ridge_vs_Vega_3_8144_7442_8468_247598_0_ht/20260511_120156/index.md) — 0 media files
